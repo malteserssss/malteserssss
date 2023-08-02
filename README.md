@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malteserssss
 - 👀 I’m interested in coding, creating a an AI to benefit in cybersecurity, that can multi task and have speeach-to-speeach activation.
-- 🌱 I’m currently learning Java, SQL, C++
+- 🌱 I’m currently learning Java, SQL, C++ , AI machine learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me add your email and i will contact you
 
